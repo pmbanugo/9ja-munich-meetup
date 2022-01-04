@@ -17,6 +17,8 @@ The maintainers will also occasionally ask community members to vote of topics. 
 
 If you have a topic you'd like to learn about, follow the same steps but label it as `suggestion`.
 
+Voting for a topic is done using the thumb up emoji. 
+
 ### Meeting Schedule
 
 Meeting will be held at least once a month and will be communicated via PR and also on WhatsApp. If you're interested in follwing the updates, we suggest you watch the channel. 
